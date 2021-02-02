@@ -1,0 +1,1 @@
+hmi_rosbridge/message_array VehicleMessage
